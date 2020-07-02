@@ -10,4 +10,4 @@ Test
 
 
 Output screenshots
-![alt text](./output/Capture.png)
+![alt text](./output/Capture.PNG)
