@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Customer /> Should match snapshot 1`] = `
+<div
+  className="customerRow"
+  onClick={[Function]}
+>
+  <div>
+    123
+  </div>
+  <div>
+    Neil Amstrong
+  </div>
+  <div>
+    25
+  </div>
+</div>
+`;

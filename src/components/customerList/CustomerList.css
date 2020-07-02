@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+}
+
+.customet-list {
+    flex-basis: 50%;
+}
+
+.customet-list-header {
+    display: flex;
+    border: 1px solid #ccc;
+    background-color: #efefef;
+}
+
+.customet-list-header .col {
+    flex: 1;
+    padding: 10px;
+}

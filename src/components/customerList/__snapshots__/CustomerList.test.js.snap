@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CustomerList /> Should match snapshot 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="customet-list"
+  >
+    <div
+      className="customet-list-header"
+    >
+      <div
+        className="col"
+      >
+        ID
+      </div>
+      <div
+        className="col"
+      >
+        NAME
+      </div>
+      <div
+        className="col"
+      >
+        AGE
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Address /> Should match snapshot 1`] = `
+<div
+  className="address-container"
+>
+  <h3
+    className="title"
+  >
+    Adderesses of 
+    Neil Amstrong
+  </h3>
+  <div>
+    No address assigned
+  </div>
+</div>
+`;
